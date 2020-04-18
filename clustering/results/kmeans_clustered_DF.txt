@@ -1,0 +1,188 @@
+,label,data,x,y
+0,1,setback government supreme court examine stolen rafale papers,-0.6408249892031928,-0.4165078720510722
+1,1,supreme court verdict centres preliminary objection rafale review pleas tomorrow,-0.5936424073504711,-0.4324477697465756
+2,0,rafale deal sc dismisses centre objections stolen documents,-0.5414950634068939,-0.5408105536067973
+3,0,classified rafale papers used evidence supreme court decides today,-0.512352960107626,-0.46609271764422505
+4,2,rafale review verdict supreme court april,-0.5533897305039062,-0.38325055891863263
+5,3,congress may scared take call jk imran khan says chance peace talks better bjp wins polls,-0.27570541598032267,0.4198787611614105
+6,4,congress may scared take call jk imran khan says chance peace talks better bjp,-0.3204691750429617,0.45966151006687317
+7,3,lok sabha elections nda win slim majority poll polls shows,0.05764159363891257,0.1583799183053661
+8,4,poll panel seeks details pm modi balakot strike remarks report,0.07694456248284688,-0.06035527492378081
+9,4,opinion hoping narendra modi elected prime minister second term,0.00888224345458409,0.030485956126900013
+10,3,alexa win election,0.11822159985154869,0.4240514067814552
+11,1,bjp says ec take charge security chhattisgarh,-0.3937539132923385,0.41421631877391957
+12,1,bhima mandavi bjp legislator dantewada among killed maoists,0.42123198466943373,0.17960899622453258
+13,4,deeply anguishing pm modi condemns chhattisgarh attack killed,-0.08572491002613646,-0.09735239340978745
+14,1,chhattisgarh bjp mla cops killed maoist attack ahead bastar polling,-0.32129757700688294,0.18634488340007344
+15,1,bulletproof suv split dantewada maoist attack bjp convoy,-0.5988281930492422,0.3418414245759997
+16,4,narendra modis news interview pm defends demonetisation castigates congress welcomes firsttime voters key highlights,0.19916754428165223,0.030069936714930922
+17,4,narendra modis news interview pm defends demonetisation castigates congress welcomes firsttime,0.1762614482222658,0.02614535582896546
+18,1,lok sabha elections live updates rahul gandhi arrives amethi file nomination,-0.11191555784723735,0.27224909037485695
+19,1,election live rahul gandhi file nomination amethi pm modi heads gujarat,-0.09049278874210441,0.2030296250029043
+20,4,easynomics congress multiplier bjp multiplier,0.5421796655778168,0.3047075243295261
+21,3,bjp congress election manifestos green enough,-0.15588141429134225,0.378314295433729
+22,1,rahul gandhi slams modi promise lakhs everyone account,-0.3570294038848689,0.019237418924305385
+23,1,lok sabha elections voice isolated man rahul gandhi trashes bjp manifesto,-0.1923509094691778,0.17446189700720918
+24,1,rahul gandhi destinys child empty suit,-0.3735517316395242,-0.3226235399566544
+25,4,et view narendra modi manifesto,-0.1430343666433498,-0.0032838006895901358
+26,1,amit shah slams congress balakot air strike hindu terror,-0.36594736824916557,-0.14893989515056993
+27,1,jk rss leader pso shot dead militants kishtwar curfew imposed,-0.18850979552838062,-0.6826785162711955
+28,1,suspected terrorists injure rss leader kill security official jammu kashmir,-0.07816268305673794,-0.6761989543745964
+29,1,rss leader pso killed terrorist attack kishtwar curfew imposed,-0.15114459766308855,-0.6765745091223927
+30,1,rss leader pso shot kishtwar,-0.16658206029696807,-0.7246036784604024
+31,5,cant create like situation intimidate hindus jammu kashmir rss calls handing,0.5129150249775386,-0.5753378927612333
+32,5,dept seeks legal action karnataka cm hd kumaraswamy dy cm intimidating officers,0.00048504421638520133,-0.30807869343828925
+33,1,hd kumaraswamy accused alerting offenders income tax raids,0.7655788857322754,-0.0012381832872909696
+34,5,bjp seeks action karnataka cm claims raids,-0.009972790715594987,-0.22318539063664722
+35,5,dept seeks legal action karnataka cm deputy cm intimidating officers,-0.027969783538180238,-0.3071491422263189
+36,5,department seeks legal action karnataka chief minister h kumaraswamy deputy chief minister g,-0.21140571762366597,-0.13889984236975927
+37,0,campaign ends first phase lok sabha poll bengal,0.15363139804688014,-0.18250881914063846
+38,1,ec transfers cooch behar sp two days ahead polls,0.48761685376939284,-0.027442462144767445
+39,1,cooch behar police chief transferred trinamool says poll body biased,0.342814780075893,-0.0369462423676405
+40,4,big news supreme court decide classified rafale documents today top stories,-0.5093855638247242,-0.4322164833591649
+41,1,tmc writes letter cec opposing transfer cooch behar police chief,0.4373747217438577,-0.29613596858520436
+42,3,election tracker live kamal nath responds bhrasht jibe says bjp man caught raids,-0.2008058223993571,0.507050502024729
+43,3,election tracker live lgbt activist harish iyer joins congress weed islamophobia,-0.12227942413733593,0.5750489917107745
+44,2,lok sabha elections loyalty vs emerging ground reality smriti irani takes rahul,0.01136821691440761,0.2865978492238563
+45,1,make easier rahul gandhis debate questions pm,-0.34160975460258963,0.2867996934680924
+46,1,bjps poll manifesto voice isolated man rahul gandhi,-0.25051295422772635,0.09807921676866595
+47,1,terrorism poll issue rahul gandhi give spg security sushma swaraj,-0.2617864396206912,-0.1770137240198079
+48,4,chandrababu naidu said congress remain anchor party,0.5543893426186065,0.1758720461317032
+49,1,repeat possibility chandrababu naidu third front government,-0.766983123587461,0.06989032906722224
+50,0,chandrababu naidu battling visionexecution mismatch faceoff jaganmohan reddy,-0.7738302254920438,0.026128128795087285
+51,1,manmohan allowed natural growth modi killing destroying leadership naidu,0.45073880624796164,0.09359426300457513
+52,1,river tale jagan best chance cross bridge godavari,0.7079163438210311,0.11093086936054566
+53,0,kotla jayasurya prakash reddy tried revive cong chance take yrs,-0.6847422375364147,0.3901035917875924
+54,3,benjamin netanyahu wife sara announcement exit polls reuters,0.36708477328930256,0.38647595407296076
+55,3,israeli pm benjamin netanyahu wins record fifth term office reports,0.2991986507456148,0.2491652118225515
+56,3,israeli pm netanyahu wins record fifth term office report,0.29528052388704085,0.22981880752574693
+57,3,netanyahu course win israeli election partial results,0.22952816908578313,0.42194254498276124
+58,3,israel election votes counted benjamin netanyahu well course claim unprecedented victory,0.2721536534190647,0.4991926176378257
+59,3,israel pm benjamin netanyahu projected win elections reports,0.23873887260143048,0.3341141246063961
+60,0,belt road initiative china builds rail line sri lanka first since,-0.460732209449914,-0.5784180213435616
+61,0,sri lanka opens new railway line built chinas assistance,-0.06884883296969607,-0.5050125808302186
+62,0,sri lanka opens new railway line built china assistance,-0.06816163308826835,-0.5048538223835165
+63,5,uk lawmakers approve pm theresa mays plan seek brexit delay june,-0.03622235414608988,0.41806128180190755
+64,5,may seeks brexit delay eu,-0.40052863906675745,-0.26060690594888436
+65,1,theresa may ask angela merkel emmanel macron brexit delay,-0.22783363002559248,0.6139274224250575
+66,1,brexit fragility uk,0.1276120451713086,-0.5187827864344259
+67,1,theresa may claims brexit choice customs union nodeal heres shes wrong,0.47198677452785526,-0.5081645759489986
+68,1,f less year old delivered air self defence force may last year file,0.7375548431111444,-0.22099228109512656
+69,1,japan confirms wreckage found crashed f fighter jet,-0.3673600561189441,-0.6097242192022978
+70,1,japan f fighter disappears pacific,-0.33122484274478586,-0.6693272441908242
+71,1,japan confirms f fighter jet crashed wreckage found,-0.36736005611849903,-0.6097242192025455
+72,1,japanese lockheed martin f stealth fighter crashes pacific pilot missing,-0.38016693411021746,-0.674654743072482
+73,1,wreckage crashed japanese f fighter jet found,-0.39353332790279677,-0.620737992380623
+74,1,downfall jet airways indias premium airline crumbled challenges ahead,-0.6294151282485007,-0.01601723104943373
+75,1,downfall jet airways indias premium airline crumbled,-0.6293151566790928,-0.031666303300885
+76,0,bids invited sell per cent stake jet,-0.036212865753184595,-0.766145060552489
+77,1,letter bs jet airways may continue become less less valuable,-0.7307907535027041,0.25217883247603706
+78,5,jet airways pilots serve legal notice airline ask salary dues cleared april,-0.5846472047157729,0.03272120004867242
+79,0,imf forecasts dip global growth,0.41682347400967573,0.4821559120876324
+80,0,adb rbi imf cuts india gdp growth forecast,-0.5985511837036652,0.25094426341867415
+81,1,india grow imf,0.08002327680393069,0.5538898235409704
+82,0,populists ruin global recovery,-0.09657409644286157,-0.7789175715340153
+83,0,imf gita gopinath says india must transparently communicate growth statistics,-0.4892150278785681,0.35598770112896394
+84,0,changed market sleeping things know,0.74465995040885,-0.05231027187110918
+85,0,cnbctv market live sensex flat nifty holds imf lowers growth forecast stocks slip,-0.2454852514349108,0.6738644047542035
+86,1,stocks radar hdfc bank mindtree praj industries vodafone idea,0.14588980558317544,-0.7620637078877615
+87,0,markets live sensex nifty recoup losses tcs slips tamo gains,-0.20372337548269348,0.7397741569881279
+88,2,things need know opening bell april,0.3574433477307669,-0.36141666873629025
+89,4,accenture logo displayed mobile world congress mwc barcelona february phone makers focus foldable screens introduction blazing fast g wireless networks worlds biggest mobile fair try reverse decline sales smartphones photo pau barrena afp photo credit read pau barrenaafpgetty images,-0.6073035493981424,-0.2437532922646513
+90,0,accenture announces intent buy french cloud consulting firm,0.23907393446825845,-0.7463052614973568
+91,4,samsung galaxy aseries event kicks pm ist,0.1373687387320118,0.27861086378900923
+92,4,samsung galaxy galaxy galaxy launch expected today watch live stream expect,-0.04047970933402859,0.718726884212903
+93,4,samsung galaxy passes geekbench revealing key specs gsmarenacom news,-0.1141579034570532,0.7433014205090167
+94,4,samsung galaxy galaxy galaxy may launch today watch launch live stream,-0.021291368811954658,0.7070686998614812
+95,1,samsung users india check prices phone spare parts online,-0.17488645797376182,-0.357982306322579
+96,4,galaxy event watch expect galaxy gsmarenacom news,-0.061970142114205734,0.7438230329503771
+97,1,huawei launches mostexpensive smartphone india p pro compares samsung galaxy apple iphone xs max google pixel xl,0.1537712899277305,0.7006215091553786
+98,1,huawei p pro review camera king,-0.510200319018834,-0.18818251493997568
+99,2,best smartphones launch april huawei p pro nokia pureview realme pro samsung galaxy,0.20618512998459654,0.6645939866718341
+100,1,huawei p pro p lite flagship phones launched india rs rs,0.45551776345654527,0.3672386466695374
+101,0,whatsapp testing feature group administrators disallow sending frequently forwarded messages groups,0.6591417175446187,0.4065357808323353
+102,1,whatsapp lets send audio files ipad support spotted,0.30549446527607477,-0.25068529911376564
+103,0,worlds mostpopular app coming ipad,0.23508064571162127,-0.5066242906985833
+104,0,whatsapp new feature group admin get powers heres,0.6238321510541145,0.3952056928295961
+105,0,whatsapp beta update brings new audio preview ui frequently forwarded messages settings groups among changes,0.4673318086281416,0.6080797597372112
+106,1,preorder redmi note global version banggood coupons,-0.26164273732172744,-0.728094586096809
+107,1,redmi note pro gb ram variant redmi note go sale today via flipkart micom check offers price,-0.6296336942630143,-0.3352024596381516
+108,4,xiaomi redmi go review perfect pick firsttime users,-0.7082036923460744,0.1457666305342509
+109,1,redmi snapdragon phone works without popup selfie camera,0.20235625494144283,-0.7016811929945637
+110,1,rm redmi go officially goes sale malaysia starting weekend,-0.6033460084363125,-0.5088599982725235
+111,1,madhuri dixit tabaah ho gaye song last sequence done one shot retakes,-0.3401598505677694,0.6882627364443888
+112,1,peach anarkali cape jacket madhuri dixits infectious beauty making us say tabaah ho gaye,-0.3535587380161087,0.6472618481982261
+113,1,alia bhatt kurta sharara set ideal summer festive outfit,0.30010959028484535,0.725259751029168
+114,0,alia bhatt shares teaser kalank song tabaah ho gaye featuring madhuri dixit,0.040957338521451774,0.7610222948618423
+115,1,madhuri epitome grace kalank tabah ho gaye,0.04798483640628897,0.7925030068156598
+116,0,amitabh bachchan shah rukh khan promotion badla image courtesy instagram,-0.5577621984659089,0.26268153830113194
+117,0,waiting party shah rukh khan amitabh bachchan complains industry neglecting badla,-0.5671785765843996,0.4978608263489654
+118,1,ranveer singh replace shah rukh khan,-0.6161254115402918,0.4439848812672661
+119,1,shah rukh khan daughter suhana stuns new picture looking every inch diva,-0.48419228693103605,0.49944015222764493
+120,0,shah rukh khan pair cool inexpensive sneakers thanks anand ahuja,-0.5794651839700521,0.43110393903526395
+121,1,shah rukh khan thanks anand ahuja gifting coolest sneakers ever,-0.5121939869339203,0.1024056604759959
+122,0,aishwarya rai birthday message motherinlaw jaya bachchan features daughter aaradhya see pic,0.1720377019563849,0.752390541925409
+123,0,aishwarya rai bachchan spreads happiness instagram cute photo jaya aaradhya bachchan,-0.47509118223425423,0.6024116637623088
+124,2,latest bollywood entertainment news april live updates,0.09435107712805313,0.6586445314705566
+125,0,aishwarya rai bachchan shares adorable photo jaya bachchan daughter aaradhya bachchan,-0.4940633600289503,0.5798649493260669
+126,0,aishwarya rai bachchan wishes happiness always jaya bachchan cute photo featuring aaradhya,-0.45353665403537397,0.611939114013977
+127,0,varun dhawan dismisses awards shows snubbing october perform get paid,0.382798912422102,0.6901662023759595
+128,3,despite four wins row ms dhoni remains unhappy chennai pitch,0.6278657564802231,0.23772287174052964
+129,1,ipl points table teams stand far league,-0.489291497999153,-0.10203528393839531
+130,1,super kings boss knights,0.5683702643144528,0.5347045779760191
+131,3,ipl chennai super kings top table emphatic win kolkata knight riders,0.5392526355521546,0.47441280647525513
+132,2,ipl csk vs kkr match chennai highlights happened,0.6672991927947539,0.030537902413124773
+133,2,tottenham hotspur vs manchester city football match report april,0.4638846733812025,-0.09015175198319134
+134,2,harry kane injury pochettino says tottenham may rest season,0.15855253134577585,-0.37472064456132265
+135,2,tottenham prove man city win without kane,0.34683053684553855,-0.13557478322361424
+136,2,tottenham hotspur vs manchester city preview probable lineups,0.5382800299287733,-0.12229892608559315
+137,2,scholes liverpool wouldve better facing barca city,0.7073336055151455,0.2072949609648522
+138,4,liverpool news dont believe stay home virgil van dijk eyeing historic double,-0.7009882468596298,-0.3054108752469514
+139,3,klopp lauds brilliant henderson keita liverpools win porto,0.2707251830919585,0.6036753349568788
+140,1,liverpool ease past porto close champions league semis,0.6071518420887453,0.461771001845066
+141,2,champions league open thread april,0.26388374357623356,-0.3691269858224755
+142,2,liverpool vs fc porto football match report april,0.405295992381838,0.5281569998051856
+143,2,ipl mi vs kxip preview mumbai indians need rohit de kock fire,0.5098487258013502,0.564943046893157
+144,0,artists illustration turbulent winds gas swirl around black hole,0.6944398068436589,-0.3278620702791359
+145,0,black holes may finally ready closeup,0.4396493594364949,-0.602150414870732
+146,0,yearold experiment helping us see black holes shadow,0.41104792471559104,-0.6624568447714576
+147,0,black holes picturing heart darkness abstract,0.3472663621751587,-0.6765138551219743
+148,0,understand image black hole,0.3752480971714455,-0.5923798908102619
+149,0,black hole breakthrough first ever pic black hole shown black hole,0.4036484850619748,-0.62612086595537
+150,1,diseasecausing germs iss concern nasa,0.6835926438192688,0.287966528092163
+151,1,space station teeming bacteria fungi nasa finds,0.06177885207049402,-0.7101813938309052
+152,1,iss infested bacteria like gym earth nasa,-0.16861021581593297,-0.5703614773398907
+153,1,international space station littered germs,0.06867832603241127,-0.763942746707056
+154,1,space station covered much bacteria fungi gyms hospitals earth nasa,0.04777203108870759,-0.6855266652173232
+155,1,yutu rover travels meters moon,0.7406174195973804,0.2828393348491398
+156,0,woolly mammoths neanderthals shared genetic trait finds study,-0.7282566114320088,-0.1436941338739437
+157,0,convergent evolution neanderthals woolly mammoths may shared genetic traits,-0.7512771824359088,-0.14860291957828933
+158,0,woolly mammoths neanderthals may shared genetic traits findings point molecular resemblance climate adaptation traits two species,-0.7309104309700122,-0.18672747079638763
+159,0,woolly mammoths neanderthals may shared genetic traits,-0.741899535673694,-0.13771609639120752
+160,0,woolly mammoths neanderthals may shared genetic traits,-0.7418995356736937,-0.13771609639120763
+161,1,candida auris deadly drugresistant fungus india connection,-0.29166060055013854,-0.38498820990864546
+162,1,clinical evidence candida auris india yet,-0.3071393090737406,-0.4499811330515739
+163,1,mystery predator human immune system,-0.7681250189380265,0.18621302079700558
+164,1,potentially deadly superbug fungus sickens new york,-0.018396944302615466,0.5797659186616168
+165,1,challenge deadly drugresistant fungi,-0.6868433342338837,0.07443407789482197
+166,1,congo ebola outbreak far contained us aid chief says,-0.4357343364455134,0.20132921402302303
+167,1,ebola outbreak death toll breaches mark dr congo,0.4643718466050615,-0.429129436504859
+168,0,ebola cases climb health workers infected,-0.27707815754609105,0.7308816706064531
+169,1,ebola virus facts information,0.730828925593422,-0.10405418349340695
+170,1,drcs ebola outbreak makings humanitarian crisis,0.35785798514358585,0.6417819677006456
+171,6,avoid taking excessive calcium supplements may increase risk cancer,0.6689486157416811,-0.2230777174297481
+172,6,excessive calcium supplements may cancer risk study,0.6449106817195817,-0.2467899674579147
+173,1,nutrients whole foods supplements boost longevity,0.7758830414007788,0.07145866483790987
+174,6,vitamins supplements cant replace balanced diet study says,0.5469946011503063,-0.2503021885846269
+175,1,food supplements show different effects longterm health,0.7639317411937383,0.13837993654241482
+176,6,clinicians must aware risks vitamin use limit complications related hypercalcemia,0.2995267440523597,-0.5783607518498491
+177,6,excess vitamin may kidney failure risk,0.6134944401125837,-0.39045133638167534
+178,6,warning excess vitamin cause kidney failure,0.642550800970392,-0.39735081492213936
+179,6,vitamin excess may cause kidney failure,0.6327091382481685,-0.4035938544833654
+180,6,vitamin excess may lead kidney failure,0.6188563496395871,-0.4214309876301731
+181,6,vitamin toxicity high doses sunshine vitamin may result kidney failure,0.5920713292822352,-0.46347494254785576
+182,4,tweet indian businessman ratan tata insulting prime minister narendra modi,0.5800264980674975,0.02901974329849652
+183,1,fact check shabana azmis controversial tweet completely fake,0.7457052375195973,-0.1544832708827871
+184,1,fact check shabana azmi refuse remarks durga ashtami,0.203614664806071,-0.6348946719364581
+185,3,bbc cia isi hasnt done survey predicting bjp ls win,0.04136688480267178,-0.5371648756239698
+186,0,image alms distribution thai monks shared crowd bjps cooch behar rally,-0.680867745418132,0.26452063725240704
